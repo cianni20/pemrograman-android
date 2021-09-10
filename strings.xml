@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">JobCourse</string>
+    <string name="app_tagline">Selamat Datang di Aplikasi JobCourse Pencari Kerja</string>
+    <string name="sign_in">SIGN IN</string>
+    <string name="register">SIGN UP</string>
+</resources>
